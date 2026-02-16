@@ -15,8 +15,8 @@
 
 ## 2) Стек технологій
 
-- **Next.js 15** (App Router) — маршрутизація та сторінки (`src/app/*`)
-- **React 19** — UI
+- **Next.js** (App Router) — маршрутизація та сторінки (`src/app/*`)
+- **React** — UI
 - **TypeScript** — типізація (`src/types/*`)
 - **Redux Toolkit + react-redux** — стан задач (`src/lib/store.ts`, `src/lib/tasks/*`)
 - **TailwindCSS** — стилі (`src/app/globals.css`, `tailwind.config.ts`)

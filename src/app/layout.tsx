@@ -32,6 +32,7 @@ export default function RootLayout({
   return (
     <StoreProvider>
       <html lang="en">
+        <head><meta name="google-site-verification" content="-7E0AGLZWYG8v2LSXPZspXH4D9w6f_cwzOJtfBWY5Q4" /></head>
         <body
           className={`${geistSans.variable} ${geistMono.variable} antialiased bg-gradient-to-r from-gray-900 to-slate-900`}
         >
